@@ -45,7 +45,6 @@ Features selected using Random Forest importance & ANOVA:
 ## 🔍 Models Trained
 - Logistic Regression
 - Support Vector Machine (SVM)
-- XGBoost Classifier
 - Random Forest Classifier
 
 ---
