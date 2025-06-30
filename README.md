@@ -13,7 +13,7 @@ To develop a machine learning-based classification system that predicts the **Ef
 ## 💡 Proposed System Features
 - Data cleaning, encoding, and scaling
 - Feature selection using Random Forest and ANOVA
-- Multi-model training: Logistic Regression, SVM, XGBoost, Random Forest
+- Multi-model training: Logistic Regression, SVM, Random Forest
 - Evaluation using accuracy, confusion matrix, and ROC curve
 - Web deployment using Streamlit for real-time predictions
 - Models saved using `joblib`
@@ -22,7 +22,7 @@ To develop a machine learning-based classification system that predicts the **Ef
 
 ## 🛠️ Tools & Technologies Used
 - **Programming Language**: Python
-- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`, `joblib`
+- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `joblib`
 - **Web App**: Streamlit
 
 ---
