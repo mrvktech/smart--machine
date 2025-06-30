@@ -4,7 +4,7 @@ import numpy as np
 
 # Load models
 model_names = {
-    'XGBoost': 'models/xgb_best_model.pkl',
+    # 'XGBoost': 'models/xgb_best_model.pkl',
     'SVM': 'models/svm_best_model.pkl',
     'Logistic Regression': 'models/logreg_best_model.pkl',
     'Random Forest' : 'models/rf_best_model.pkl'
